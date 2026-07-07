@@ -5,7 +5,7 @@ Showing integration with Visual Studio Code and Python
 The program was created to do end to end integration with Visual Studio Code and GitHub
 
 
-[Hello World Demo on YouTube](https://youtu.be/2rY2Hf77rrs)
+[Hello World Demo on YouTube](https://youtu.be/8pS6IzZJeJ0)
 
 # Development Environment
 Visual Studio Code
